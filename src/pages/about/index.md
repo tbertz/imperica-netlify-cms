@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About
+image: /img/f851d10b-712d-4744-b82c-36c6a404e1db.jpeg
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+**"New knowledge for creative polymaths"** - [Peter Cochrane](https://www.imperica.com/en/peter-cochrane-ambient-intelligence)
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Imperica is an online magazine which covers topics in and around contemporary culture. This is done in a way for the benefit of our main audience: those in the marketing and communications industry. While our main focus is on issues with a relationship to contemporary digital technology, we cover a wider range - pretty much anything concerning the life (lives?) we live today comes into our range.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Fundamentally, we're all about exploring ideas: exploring, dissecting, and reviewing them. We aim to be critical without being negative; analytical without being boring. Think of us as being a really useful scrapbook for planners, strategists, and digital heads/leaders.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+We also occasionally run events, usually in a central London location. Our events have ranged from a [30th anniversary of the Sinclair ZX Spectrum home computer](https://www.imperica.com/en/horizons-the-sinclair-zx-spectrum-at-30), to the future of [home and mobile technology,](https://www.imperica.com/en/mirror-mirror) and one on the [past, present and future of wearables](https://www.imperica.com/en/wearable-horizons).
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+The Imperica newsletter is a weekly digest of all things interesting from around the web, featuring the rather brilliant Web Curios from Matt Muir. [Sign up here to receive it by email](https://www.imperica.com/en/newsletter). 
+
+## A little bit more about us
+
+* Chief writer: Matt Muir
+* Publisher/editor: Paul Squires
+* Curiobot wrangling: Shardcore
+* Extended thanks: Benjamin Southworth
+
+Imperica is published by a company called Perini in a small office in the centre of Oxford. We do this sort of thing (that is, write, research, and produce) on a commercial basis too. These services are provided under our commercial agency brand, Perera. If you are interested in working with us, then visit Perera's website for more information.
