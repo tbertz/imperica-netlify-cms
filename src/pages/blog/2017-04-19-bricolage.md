@@ -1,0 +1,27 @@
+---
+templateKey: blog-post
+title: Making sense of the SCAA’s new Flavor Wheel
+date: 2016-12-17T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/flavor_wheel.jpg
+description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+tags:
+  - flavor
+  - tasting
+---
+
+A new series for BBC Radio 4, *[Invisible Networks](https://www.bbc.co.uk/programmes/m000458l)*, starts today. Presented by James Bridle and featuring artists including our old friends [Julian Oliver and Danja Vasiliev](https://www.imperica.com/en/newstweek-changing-news), it "reimagines John Berger's *Ways of Seeing *for the digital age". 
+
+Also happening today is the very interesting-looking [Glitches and Ghosts](http://wp.lancs.ac.uk/glitchesandghosts/2019/03/29/schedule-announced/) at Lancaster University.
+
+Extinction Rebellion continues today in London and cities across Europe. As its "egg timer cross" logo becomes more well-known, here's the [origins and rise of the ER logo.](https://ecohustler.com/article/the-origins-and-rise-of-the-extinction-symbol/)
+
+The EU's guidance for AI is slated by a member of its expert group, labelling it *["ethics washing"](https://www.tagesspiegel.de/politik/eu-guidelines-ethics-washing-made-in-europe/24195496.html).*
+
+*"Fight the insidious creep towards middle-distance mediocrity".* A typically powerful piece from another old friend of Imperica, [Richard Huntington.](https://www.campaignlive.co.uk/article/lets-hell-land-middle-distance-mediocrity/1581891)
+
+Level Up has successfully won its campaign to [change how the media reports domestic abuse](https://www.independent.co.uk/life-style/women/domestic-abuse-reporting-guidelines-ipso-press-regulation-a8871996.html).
+
+One Question takes place again in mid-May, asking "Does purpose really drive profit"? [Info and booking here](https://onequestion.live/).
+
+[Actual Reality](https://www.serpentinegalleries.org/exhibitions-events/hito-steyerl-actual-reality-os): "Using data about wealth, social housing and austerity collected with local research partners and community groups the app shows the Serpentine Galleries shaped and abstracted by the actual forces of its social environment, charting real-life inequality through virtual means."

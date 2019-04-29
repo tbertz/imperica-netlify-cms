@@ -2,9 +2,13 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Imperica - Imperica magazine',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Combining insight with intelligence, humour with hard analysis and comment with candour, Imperica Magazine is simply what we want it to be: a great monthly read. Although our roots are firmly in the creative industries and technology, the magazine ha',
+    keywords:
+      'About Imperica',
+    rights:
+      'CC BY-NC-SA'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const MediaPageTemplate = ({ title, content, contentComponent }) => {
+export const MediaPageTemplate = ({ title, image, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -13,6 +13,15 @@ export const MediaPageTemplate = ({ title, content, contentComponent }) => {
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
+              <div
+                className="full-width-image-container margin-top-0"
+                style={{
+                  backgroundImage: `url(${
+                    !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+                  })`,
+                }}
+              >
+              </div>
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
@@ -26,6 +35,7 @@ export const MediaPageTemplate = ({ title, content, contentComponent }) => {
 }
 
 MediaPageTemplate.propTypes = {
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
@@ -37,6 +47,7 @@ const MediaPage = ({ data }) => {
   return (
     <Layout>
       <MediaPageTemplate
+        image={post.frontmatter.image}
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -57,6 +68,13 @@ export const mediaPageQuery = graphql`
       html
       frontmatter {
         title
+        image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

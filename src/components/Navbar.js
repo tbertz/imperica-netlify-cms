@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
+import patreon from '../img/patreon_logo.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
@@ -82,12 +82,12 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+                href="https://www.patreon.com/imperica"
                 target="_blank"
                 rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
+              > Patreon (£5/Mth)
+                <span className="icon patreon">
+                  <img src={patreon} alt="Patreon" />
                 </span>
               </a>
             </div>

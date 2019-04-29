@@ -6,13 +6,15 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata()
+  const { title, description, keywords, rights } = useSiteMetadata()
   return (
     <div>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta name="keywords" content={keywords} />
+        <meta name="rights" content={rights} />
 
         <link
           rel="apple-touch-icon"
@@ -35,14 +37,14 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="mask-icon"
           href="/img/safari-pinned-tab.svg"
-          color="#ff4400"
+          color="#5bbad5"
         />
         <meta name="theme-color" content="#fff" />
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
-        <meta property="og:image" content="/img/og-image.jpg" />
+        <meta property="og:image" content="/img/au-al-0900-1000-cover-sm.jpg" />
       </Helmet>
       <Navbar />
       <div>{children}</div>

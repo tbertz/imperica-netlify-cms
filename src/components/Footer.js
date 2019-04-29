@@ -74,6 +74,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+        <p>Contact us: <a href="mailto:hello@imperica.com">hello@imperica.com</a> <a href="https://www.perininetworks.com/terms/">Terms and conditions / privacy policy</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/uk/">CC NC-BY-ND</a> © 2010-2019 <a href="http://www.perininetworks.com/">Perini Networks Europe Ltd</a>.</p>
       </footer>
     )
   }
