@@ -1,7 +1,7 @@
 ---
 templateKey: magazine-page
 title: Imperica Magazine
-image: /img/jumbotron.jpg
+image: /img/au-al-0900-1000-cover-sm.jpg
 ---
 **Combining insight with intelligence, humour with hard analysis and comment with candour, Imperica Magazine is simply what we want it to be: a great monthly read.**
 
