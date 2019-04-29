@@ -1,7 +1,7 @@
 ---
 templateKey: services-page
 title: Commercial Services
-image: /img/jumbotron.jpg
+image: /img/93ca00db-fc80-4325-a1b5-1ca7496e9235.jpeg
 ---
 **Since 2010, Imperica has published thoughtful, insightful content from thoughtful, insightful people.**
 
