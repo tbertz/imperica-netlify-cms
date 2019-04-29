@@ -1,4 +1,5 @@
-templateKey: about-page
+---
+templateKey: 'about-page'
 path: /about
 title: About
 image: /img/f851d10b-712d-4744-b82c-36c6a404e1db.jpeg
